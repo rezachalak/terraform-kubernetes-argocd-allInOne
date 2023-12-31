@@ -1,0 +1,1 @@
+# terraform-kubernetes-argocd-allInOne
